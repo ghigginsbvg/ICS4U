@@ -8,7 +8,7 @@ public class ExampleOne {
 		final int ZERO = 0;
 		
 		final double POSITIVE_DOUBLE = 4.0;
-		final double NEGATIVE_DOUBLE = -8.0;
+		final double NEGATIVE_DOUBLE = -9.0;
 		
 	//	System.out.println(POSITIVE_INTEGER/ZERO);
 	//	System.out.println(NEGATIVE_INTEGER/ZERO);
