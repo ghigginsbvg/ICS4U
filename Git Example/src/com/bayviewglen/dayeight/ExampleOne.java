@@ -3,7 +3,7 @@ package com.bayviewglen.dayeight;
 public class ExampleOne {
 
 	public static void main(String[] args) {
-		final int POSITIVE_INTEGER = 6;
+		final int POSITIVE_INTEGER = 8;
 		final int NEGATIVE_INTEGER = -7;
 		final int ZERO = 0;
 		
